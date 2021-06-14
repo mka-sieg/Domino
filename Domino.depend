@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1574724271 source:c:\users\marta\desktop\domino\main.cpp
+	"libraries.h"
+
+1574455267 c:\users\marta\desktop\domino\functions.c
+	"libraries.h"
+
+1574721592 c:\users\marta\desktop\domino\libraries.h
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"func.cpp"
+	"func_game.cpp"
+	"func_rand.cpp"
+
+1574628015 c:\users\marta\desktop\domino\func.cpp
+	"libraries.h"
+
+1574724215 c:\users\marta\desktop\domino\func_rand.cpp
+	"libraries.h"
+
+1574724215 c:\users\marta\desktop\domino\func_game.cpp
+	"libraries.h"
+
